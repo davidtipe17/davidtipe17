@@ -22,11 +22,3 @@
 - 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
-
-<h1 align="center"></h1>
-
-<div align="center">
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=zeeid&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeid&layout=compact&theme=aura&langs_count=9" />
-</div>
