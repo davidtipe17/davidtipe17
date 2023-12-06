@@ -19,6 +19,6 @@
 - 🌱 I’m currently learning **Laravel and Competitive Programming**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for with **junior job**
-- 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help.
+- 💬 Ask me about Anything [here](https://github.com/davidtipe17/davidtipe17/issues/1)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
